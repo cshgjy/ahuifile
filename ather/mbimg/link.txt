@@ -1,10 +1,22 @@
-a
+以下是图片规格“横、正、竖”的搜索快捷图：
+
+a（横so：iaa---iab...）
 https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/a/001.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/a/002.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/a/003.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/a/004.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/a/005.jpg
 
-
-b
+b（正so：iba---ibb...）
 https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/b/001.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/b/002.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/b/003.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/b/004.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/b/005.jpg
 
-
-c
+c（竖so：ica---icb...）
 https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/c/001.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/c/002.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/c/003.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/c/004.jpg
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/ather/mbimg/c/005.jpg
