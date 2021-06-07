@@ -7,5 +7,7 @@ https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/video/videobj/videobj003.mp4
 https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/video/videobj/videobj004.mp4
 https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/video/videobj/videobj005.mp4
 
-
+play按纽
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/video/videobj/play.png
+https://cdn.jsdelivr.net/gh/cshgjy/ahuifile/video/videobj/pause.png
 
